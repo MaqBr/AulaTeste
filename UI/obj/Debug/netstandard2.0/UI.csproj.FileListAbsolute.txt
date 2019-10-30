@@ -1,0 +1,9 @@
+C:\AulaTeste\UI\bin\Debug\netstandard2.0\UI.deps.json
+C:\AulaTeste\UI\bin\Debug\netstandard2.0\UI.dll
+C:\AulaTeste\UI\bin\Debug\netstandard2.0\UI.pdb
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.csprojAssemblyReference.cache
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.csproj.CoreCompileInputs.cache
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.AssemblyInfoInputs.cache
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.AssemblyInfo.cs
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.dll
+C:\AulaTeste\UI\obj\Debug\netstandard2.0\UI.pdb

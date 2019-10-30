@@ -1,0 +1,17 @@
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.deps.json
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.runtimeconfig.json
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.runtimeconfig.dev.json
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.dll
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.pdb
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csprojAssemblyReference.cache
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csproj.CoreCompileInputs.cache
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.AssemblyInfoInputs.cache
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.AssemblyInfo.cs
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.dll
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.pdb
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.dll
+C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.pdb
+C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csproj.CopyComplete
