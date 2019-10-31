@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {}
+    "c:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {
+    "c:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
+        "projectUniqueName": "c:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
+        "projectPath": "c:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\Marcio Queiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\obj\\",
+        "outputPath": "c:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
