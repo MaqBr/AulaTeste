@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\AulaTeste\\UI\\UI.csproj": {}
+    "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\AulaTeste\\UI\\UI.csproj": {
+    "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\AulaTeste\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\AulaTeste\\UI\\UI.csproj",
+        "projectPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\Marcio Queiroz\\.nuget\\packages\\",
-        "outputPath": "C:\\AulaTeste\\UI\\obj\\",
+        "outputPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

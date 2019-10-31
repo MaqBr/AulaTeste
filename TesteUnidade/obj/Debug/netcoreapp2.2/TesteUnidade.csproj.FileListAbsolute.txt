@@ -15,3 +15,20 @@ C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.pdb
 C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.dll
 C:\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.pdb
 C:\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csproj.CopyComplete
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.deps.json
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.runtimeconfig.json
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.runtimeconfig.dev.json
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\TesteUnidade.pdb
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\bin\Debug\netcoreapp2.2\UI.pdb
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csprojAssemblyReference.cache
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csproj.CoreCompileInputs.cache
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.AssemblyInfoInputs.cache
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.AssemblyInfo.cs
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.csproj.CopyComplete
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.dll
+C:\Users\Marcio Queiroz\source\repos\AulaTeste\AulaTeste\TesteUnidade\obj\Debug\netcoreapp2.2\TesteUnidade.pdb

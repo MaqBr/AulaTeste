@@ -5861,11 +5861,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AulaTeste\\TesteUnidade\\TesteUnidade.csproj",
+      "projectUniqueName": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\TesteUnidade\\TesteUnidade.csproj",
       "projectName": "TesteUnidade",
-      "projectPath": "C:\\AulaTeste\\TesteUnidade\\TesteUnidade.csproj",
+      "projectPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\TesteUnidade\\TesteUnidade.csproj",
       "packagesPath": "C:\\Users\\Marcio Queiroz\\.nuget\\packages\\",
-      "outputPath": "C:\\AulaTeste\\TesteUnidade\\obj\\",
+      "outputPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\TesteUnidade\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5884,8 +5884,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\AulaTeste\\UI\\UI.csproj": {
-              "projectPath": "C:\\AulaTeste\\UI\\UI.csproj"
+            "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj": {
+              "projectPath": "C:\\Users\\Marcio Queiroz\\source\\repos\\AulaTeste\\AulaTeste\\UI\\UI.csproj"
             }
           }
         }

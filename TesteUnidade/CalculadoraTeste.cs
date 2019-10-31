@@ -16,6 +16,20 @@ namespace TesteUnidade
             //Assert
             Assert.Equal(4, resultado);
         }
+
+        [Fact]
+        public void Calculadora_Dividir_RetornarValorDivisao() {
+
+            //Arrange
+            var calculadora = new Calculadora();
+            //Act
+            var resultado = calculadora.Dividir(10, 2);
+            //Assert
+            Assert.Equal(5, resultado);
+
+        }
+
+
         [Theory]
         [InlineData(1, 1, 2)]
         [InlineData(3, 2, 5)]
@@ -30,6 +44,36 @@ namespace TesteUnidade
             //Assert
             Assert.Equal(total, resultado);
         }
+
+        // 5/0 = Erro
+        [Fact]
+        public void Calculadora_Dividir_DeveRetornarErroDivisaoPorZero()
+        {
+            // Arrange
+            var calculadora = new Calculadora();
+
+            // Act & Assert
+            Assert.Throws<DivideByZeroException>(() => calculadora.Dividir(5, 0));
+        }
+
+        // 10/2 =5
+        // 8/2 = 4
+        // 6/2 = 3 
+        [Theory]
+        [InlineData(10, 2, 5)]
+        [InlineData(8, 2, 4)]
+        [InlineData(6, 2, 3)]
+        public void Calculadora_Dividir_RetornarValoresDivisaoCorretas(int v1, 
+        int v2, double total) {
+
+            //Arrange
+            var calculadora = new Calculadora();
+            //Act
+            var resultado = calculadora.Dividir(v1, v2);
+            //Assert
+            Assert.Equal(total, resultado);
+        }
+
 
     }
 }
